@@ -2,6 +2,7 @@
 <div align="center">
 <img src="./src/assets/danitl-logo.png" width="300" />
 </div>
+
 ## Repositório para o Projeto ToDo 
 
 Projeto ToDo:
