@@ -1,6 +1,6 @@
 <h1  align="center"> Projeto ToDo (Lista de Tarefas) </h1>
 <div align="center">
-<img src="./src/assets/danitl-logo.png" width="300" />
+<img src="./src/assets/danitlobo.png" width="300" />
 </div>
 
 ## Repositório para o Projeto ToDo 
